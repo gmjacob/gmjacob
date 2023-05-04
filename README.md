@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/chaiakaapi"><img src="https://api.daily.dev/devcards/e78041245c3c48ba9202050959a7a4fd.png?r=azu" width="400" alt="George M Jacob's Dev Card"/></a>
 
 <!--
 **gmjacob/gmjacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
